@@ -15,10 +15,9 @@ before it becomes inaccessible.
 
 * **Send** and **receive** messages.
 
+![register](https://user-images.githubusercontent.com/79721547/118672913-43fc0500-b801-11eb-85fb-59d3f4f2bd55.png)
 
-![register](https://user-images.githubusercontent.com/79721547/118596230-15a40880-b7b4-11eb-9d89-0474f5e10bb1.png)
-
-![login](https://user-images.githubusercontent.com/79721547/118596459-23f22480-b7b4-11eb-9402-acb82d211e83.png)
+![login](https://user-images.githubusercontent.com/79721547/118672777-2c248100-b801-11eb-863b-3733836f5b78.png)
 
 
 
