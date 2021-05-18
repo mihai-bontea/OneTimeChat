@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">One Time Chat</string>
+    <string name="tab_text_1">Read Message</string>
+    <string name="tab_text_2">Write Message</string>
+    <string name="tab_text_3">Add Friend</string>
+    <string name="mihai_cira">Mihai Cira</string>
+    <string name="todo">TODO</string>
+    <string name="send">SEND</string>
+    <string name="text">TEXT</string>
+    <string name="friend_username">Friend Username</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="error">ERROR!</string>
+    <string name="mobadex_logo">One Time Chat Logo</string>
+    <string name="login">Login</string>
+    <string name="title_activity_show_moba">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

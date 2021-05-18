@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2f2d5a</color>
+    <color name="colorPrimaryDark">#f65800</color>
+    <color name="colorAccent">#feb600</color>
+
+    <color name="themePurple">#2f2d5a</color>
+    <color name="themeOrange">#f65800</color>
+    <color name="themeYellow">#feb600</color>
+    <color name="themePurpleLight">#7c78fe</color>
+    <color name="themeGreen">#00c052</color>
+    <color name="themeBlue">#2562e7</color>
+
+    <color name="moba_read">#F60000</color>
+    <color name="moba_unread">#10F600</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
